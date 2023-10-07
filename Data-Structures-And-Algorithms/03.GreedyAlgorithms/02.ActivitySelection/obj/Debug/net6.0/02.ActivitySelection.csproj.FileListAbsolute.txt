@@ -1,0 +1,14 @@
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\bin\Debug\net6.0\02.ActivitySelection.exe
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\bin\Debug\net6.0\02.ActivitySelection.deps.json
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\bin\Debug\net6.0\02.ActivitySelection.runtimeconfig.json
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\bin\Debug\net6.0\02.ActivitySelection.dll
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\bin\Debug\net6.0\02.ActivitySelection.pdb
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.AssemblyInfoInputs.cache
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.AssemblyInfo.cs
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.csproj.CoreCompileInputs.cache
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.dll
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\refint\02.ActivitySelection.dll
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.pdb
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\02.ActivitySelection.genruntimeconfig.cache
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\03.GreedyAlgorithms\02.ActivitySelection\obj\Debug\net6.0\ref\02.ActivitySelection.dll

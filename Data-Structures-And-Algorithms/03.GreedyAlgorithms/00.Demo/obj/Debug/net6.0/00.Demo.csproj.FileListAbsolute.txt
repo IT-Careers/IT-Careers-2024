@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\bin\Debug\net6.0\00.Demo.exe
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\bin\Debug\net6.0\00.Demo.deps.json
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\bin\Debug\net6.0\00.Demo.runtimeconfig.json
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\bin\Debug\net6.0\00.Demo.dll
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\bin\Debug\net6.0\00.Demo.pdb
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.AssemblyInfo.cs
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.dll
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\refint\00.Demo.dll
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.pdb
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\00.Demo.genruntimeconfig.cache
+C:\Users\User\source\repos\Test\GreedyAlgorithms\00.Demo\obj\Debug\net6.0\ref\00.Demo.dll
