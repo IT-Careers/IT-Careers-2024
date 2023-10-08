@@ -1,0 +1,14 @@
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\bin\Debug\net6.0\02.BinaryTreeOperations.exe
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\bin\Debug\net6.0\02.BinaryTreeOperations.deps.json
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\bin\Debug\net6.0\02.BinaryTreeOperations.runtimeconfig.json
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\bin\Debug\net6.0\02.BinaryTreeOperations.dll
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\bin\Debug\net6.0\02.BinaryTreeOperations.pdb
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.AssemblyInfoInputs.cache
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.AssemblyInfo.cs
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.csproj.CoreCompileInputs.cache
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.dll
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\refint\02.BinaryTreeOperations.dll
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.pdb
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\02.BinaryTreeOperations.genruntimeconfig.cache
+D:\IT-Careers-2024\Data-Structures-And-Algorithms\05.Trees\02.BinaryTreeOperations\obj\Debug\net6.0\ref\02.BinaryTreeOperations.dll
