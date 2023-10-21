@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FibonacciRecursive", "01.FibonacciRecursive\01.FibonacciRecursive.csproj", "{F645B89D-AC8D-480C-908B-01BDED4B4258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.FibonacciRecursive", "01.FibonacciRecursive\01.FibonacciRecursive.csproj", "{F645B89D-AC8D-480C-908B-01BDED4B4258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FibonacciIterative", "01.FibonacciIterative\01.FibonacciIterative.csproj", "{93E1D163-B768-4752-A917-5A2C9431917C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.FibonacciIterative", "01.FibonacciIterative\01.FibonacciIterative.csproj", "{93E1D163-B768-4752-A917-5A2C9431917C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LISCustom", "02.LISCustom\02.LISCustom.csproj", "{3CD0EBA9-E001-4707-B36F-73E354404D87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LISCustom", "02.LISCustom\02.LISCustom.csproj", "{3CD0EBA9-E001-4707-B36F-73E354404D87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LISIterativeIndex", "02.LISIterativeIndex\02.LISIterativeIndex.csproj", "{61D71282-96C5-4EB4-B7DB-58C7CA536B5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LISIterativeIndex", "02.LISIterativeIndex\02.LISIterativeIndex.csproj", "{61D71282-96C5-4EB4-B7DB-58C7CA536B5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LISIterativeSubSequance", "02.LISIterativeSubSequance\02.LISIterativeSubSequance.csproj", "{956D91C7-F4ED-4EDD-BF10-1C8CA3BEC931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LISIterativeSubSequance", "02.LISIterativeSubSequance\02.LISIterativeSubSequance.csproj", "{956D91C7-F4ED-4EDD-BF10-1C8CA3BEC931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RightDown", "03.RightDown\03.RightDown.csproj", "{CC9158A0-64C0-4DB2-A002-D6CD5F3FAEE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RightDown", "03.RightDown\03.RightDown.csproj", "{CC9158A0-64C0-4DB2-A002-D6CD5F3FAEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. RodCutting", "04. RodCutting\04. RodCutting.csproj", "{8BA19568-C051-4D0B-AB4C-2F65F4320A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SubsetSum", "05. SubsetSum\05. SubsetSum.csproj", "{198DB58C-03AC-49D1-836B-E13F28BDF33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Knapsack", "06. Knapsack\06. Knapsack.csproj", "{573F14C8-A84F-4F2F-A8B1-1E27D2981082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{CC9158A0-64C0-4DB2-A002-D6CD5F3FAEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC9158A0-64C0-4DB2-A002-D6CD5F3FAEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC9158A0-64C0-4DB2-A002-D6CD5F3FAEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA19568-C051-4D0B-AB4C-2F65F4320A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA19568-C051-4D0B-AB4C-2F65F4320A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA19568-C051-4D0B-AB4C-2F65F4320A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA19568-C051-4D0B-AB4C-2F65F4320A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198DB58C-03AC-49D1-836B-E13F28BDF33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198DB58C-03AC-49D1-836B-E13F28BDF33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198DB58C-03AC-49D1-836B-E13F28BDF33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198DB58C-03AC-49D1-836B-E13F28BDF33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573F14C8-A84F-4F2F-A8B1-1E27D2981082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573F14C8-A84F-4F2F-A8B1-1E27D2981082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573F14C8-A84F-4F2F-A8B1-1E27D2981082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573F14C8-A84F-4F2F-A8B1-1E27D2981082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
