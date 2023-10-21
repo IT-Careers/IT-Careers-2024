@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.MostValuablePaths", "P01.MostValuablePaths\P01.MostValuablePaths.csproj", "{17C1A09B-CD45-48B8-89A1-4478EEE017B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.HalfPalindrome", "P02.HalfPalindrome\P02.HalfPalindrome.csproj", "{5A6661AF-C162-462D-8F5A-2E3FBFDD8220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C1A09B-CD45-48B8-89A1-4478EEE017B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C1A09B-CD45-48B8-89A1-4478EEE017B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C1A09B-CD45-48B8-89A1-4478EEE017B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C1A09B-CD45-48B8-89A1-4478EEE017B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6661AF-C162-462D-8F5A-2E3FBFDD8220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6661AF-C162-462D-8F5A-2E3FBFDD8220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6661AF-C162-462D-8F5A-2E3FBFDD8220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6661AF-C162-462D-8F5A-2E3FBFDD8220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {155C4D68-6D7D-406A-8BCE-EB3C7EF4A4AF}
+	EndGlobalSection
+EndGlobal
