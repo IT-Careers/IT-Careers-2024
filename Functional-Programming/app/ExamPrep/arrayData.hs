@@ -30,6 +30,6 @@ arrayData = do
     else 
         if command == "Max"
             then do
-                print $ customFindMax filteredNumbers
+                print $ customFindMax filteredNumbers (\x -> x)
         else do
             print $ customJoin (customDumbSort filteredNumbers) " "

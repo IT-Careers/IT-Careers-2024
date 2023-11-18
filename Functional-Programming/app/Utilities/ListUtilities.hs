@@ -14,15 +14,15 @@ customFindMinInternal arr min =
 
 customFindMin arr = customFindMinInternal (customTail arr) (customHead arr)
 
-customFindMaxInternal arr min = 
+customFindMaxInternal arr maxValue maxElement comparator = 
     if null arr
-        then min
+        then maxElement
     else 
-        if (customHead arr) > min
-            then customFindMaxInternal (customTail arr) (customHead arr)
-        else customFindMaxInternal (customTail arr) min
+        if comparator (customHead arr) >= maxValue
+            then customFindMaxInternal (customTail arr) (comparator (customHead arr)) (customHead arr) comparator
+        else customFindMaxInternal (customTail arr) maxValue maxElement comparator
 
-customFindMax arr = customFindMaxInternal (customTail arr) (customHead arr)
+customFindMax arr comparator = customFindMaxInternal (customTail arr) (comparator (customHead arr)) (customHead arr) comparator
 
 customMap list mapper = 
     if null list

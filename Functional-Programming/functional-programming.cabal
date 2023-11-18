@@ -22,6 +22,7 @@ executable functional-programming
         Utilities.StringUtilities
         ExamPrep.ArrayData
         ExamPrep.Camping
+        ExamPrep.MostValuedCustomer
     -- other-extensions:
     build-depends:    base ^>=4.19.0.0
     hs-source-dirs:   app
