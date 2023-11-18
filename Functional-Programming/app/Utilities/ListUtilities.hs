@@ -1,4 +1,4 @@
-module ListUtilities where
+module Utilities.ListUtilities where
 
 customHead arr = arr!!0
 

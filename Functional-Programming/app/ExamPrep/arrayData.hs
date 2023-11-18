@@ -1,4 +1,5 @@
-import HelperFunctions
+import Utilities.ListUtilities
+import Utilities.StringUtilities
 
 customDumbRemoveElem list elem = 
     if null list

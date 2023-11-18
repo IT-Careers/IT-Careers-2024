@@ -1,6 +1,6 @@
-module StringUtilities where
+module Utilities.StringUtilities where
 
-import ListUtilities
+import Utilities.ListUtilities
 
 repeatString str n = 
     if n == 1

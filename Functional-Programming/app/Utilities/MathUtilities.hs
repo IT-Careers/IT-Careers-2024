@@ -1,5 +1,4 @@
-module MathUtilities where
-
+module Utilities.MathUtilities where
 
 isOdd a = a `mod` 2 == 1
 isEven a = not $ isOdd a

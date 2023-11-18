@@ -1,4 +1,4 @@
-module CommonUtilities where
+module Utilities.CommonUtilities where
     
 loop loopData condition actualization body = do
     if not (condition loopData)

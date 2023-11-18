@@ -1,6 +1,6 @@
-module GeneratorUtilities where
+module Utilities.GeneratorUtilities where
 
-import MathUtilities
+import Utilities.MathUtilities
 
 primeNumbers' i = 
     if isPrime i
