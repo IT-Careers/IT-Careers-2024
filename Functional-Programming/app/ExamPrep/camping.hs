@@ -1,3 +1,5 @@
+module ExamPrep.Camping where
+
 import Utilities.StringUtilities
 import Utilities.ListUtilities
 
@@ -55,5 +57,5 @@ readUntilEnd people = do
         else do
             readUntilEnd (people ++ [(personName, [camperModel], timeToStay)])
 
-main = do
+camping = do
     readUntilEnd []

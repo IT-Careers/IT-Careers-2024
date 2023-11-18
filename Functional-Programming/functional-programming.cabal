@@ -20,6 +20,8 @@ executable functional-programming
         Utilities.GeneratorUtilities
         Utilities.ListUtilities
         Utilities.StringUtilities
+        ExamPrep.ArrayData
+        ExamPrep.Camping
     -- other-extensions:
     build-depends:    base ^>=4.19.0.0
     hs-source-dirs:   app

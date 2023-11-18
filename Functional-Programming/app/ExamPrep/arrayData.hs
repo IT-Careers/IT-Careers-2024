@@ -1,3 +1,5 @@
+module ExamPrep.ArrayData where
+
 import Utilities.ListUtilities
 import Utilities.StringUtilities
 
@@ -14,7 +16,7 @@ customDumbSort list =
         then []
     else [customFindMin list] ++ customDumbSort (customDumbRemoveElem list (customFindMin list))
 
-main = do
+arrayData = do
     numbers <- getLine
     command <- getLine
     
